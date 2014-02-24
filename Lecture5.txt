@@ -1,0 +1,35 @@
+##Lecture 5
+
+---
+
+###Integrating Electrical Signals
+
+**Neurons can receive several inputs** | **Inputs can be integrated across time and across synapses**
+--- | ---
+<img src="./media/Multiple_Inputs.png" width="100%"> | <img src="./media/Different_Inputs.png" width="100%">
+
+###Neurotransmission
+#####Chemical vs Electrical Synapses
+<br>
+####Varieties of Synapses
+- Synapses vary widely, each type is specialized in
+	- Location
+	- Structure
+	- Function
+	- Target
+- Through connections to the dendrites, cell body, or axon of a neuron, transmitters can control the actions of the neuron in different ways
+	1. **Dendrodendritic**: Dendrites to dendrites
+	2. **Axodendritic**: Axon terminal to dendrites
+	3. **Axoextracellular**: Axon terminal to extracellular fluid
+	4. **Axosomatic**: Axon terminal to cell body
+	5. **Axosynaptic**: Axon terminal to another terminal
+	6. **Axoaxonic**: Axon terminal to another axon
+	7. **Axosecretory**: Axon terminal to to capillaries (directly into blood)
+
+####Structure of Chemical Synapses
+- Chemical Synapse
+	- Junction where messenger molecules (neurotransmitters) are released from one neuron to excite/inhibit the next neuron
+	- Majority of synapses in the mammalian nervous system are chemical
+- Neurotransmitter
+	- Chemical released by a neuron onto a target with an excitatory or inhibitory effect
+	- Outside the bloodstream as h

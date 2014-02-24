@@ -1,0 +1,177 @@
+#Lecture 3: The Brain
+
+---
+
+##Cellular Components
+###The Nervous System is composed of cells
+- Neurons, or nerve cells, are the most important part of the nervous system
+- Glial cells provide support for neurons
+
+<img src="./media/Neuron.png" width="50%" alt="Neuron">
+
+###The Brain in Numbers
+- Contains 
+	- 100 billion neurons
+	- 1 trillion glial cells
+- Consumes
+	- 25% of body's oxygen
+	- 70% of body's glucose 
+- For each neuron, ~5000 synapses
+- Is less than 2% of body weight
+
+###Neurons have 4 Zones
+- **Input zone**: dendrites
+	- Receives information from other cells
+- **Integration zone**: cell body or soma
+	- Region where inputs are combined and transformed
+- **Conduction zone**: axon
+	- Single axon leads from the cell body and transmits electrical impulses
+- **Output zone**: axon terminals
+	- Terminals at the end of the axon communicate activity to other cells
+
+###The Neuron Doctrine
+- 19th century
+	- It was recognized that the cell was the fundamental unit of all living organisms
+	- But it wasn't clear whether this was the case for the brain
+- Camillo Golgi (1843-1926)
+	- Silver stain (Golgi stain)
+	- Proposed **reticular theory**
+- Santiago Ramon y Cajal
+	- Also used Golgi's stain
+	- Proposed the **neuron doctrine**
+
+###The Brain: Cellular Elements
+
+####A more realistic neuron
+
+<img src="./media/Realistic_Neuron.png" width="50%" alt="Realistic Neuron">
+
+####Neuronal Diversity
+
+<img src="./media/Neuronal_Diversity.png" width="70%" alt="Neuronal Diversity">
+
+####Synapses
+- Neurons communicate with each other through gaps called synapses
+- It has been estimated that the human has 10^15 synapses
+- Synapses have 3 components
+	- **Presynaptic membrane**
+		- On the axon terminal of the presynaptic neuron
+	- **Postsynaptic membrane**
+		- On the dendrite or cell body of the postsynaptic neuron
+	- **Synaptic cleft**
+		- A gap that separates the membranes
+
+<img src="./media/Synapse.png" width="50%" alt="Synapse">
+
+####Glial Cells
+
+	Support neuronal activity
+	
+- **Astrocytes**
+	- Star-shaped cells
+	- Many processes that receive neuronal input and monitor activity
+	- Localizes in the CNS (Central Nervous System)
+- **Microglial cells**
+	- Small cells
+	- Remove debris from injured cells
+	- Localized in the CNS
+- **Oligodendrocytes**
+	- Provide myelination to CNS cells
+- **Schwann cells**
+	- Provide myelination to PNS (Peripheral Nervous System) cells
+
+####Myelination
+- The process in which glial cells wrap axons with a fatty sheath, myelin, to insulate and speed conduction
+- **Multiple sclerosis**
+	- A demyelinating disease
+
+---
+
+##Gross anatomy of the brain
+
+###Nervous System
+1. Central Nervous System
+	- Brain and spinal cord
+2. Peripheral Nervous System
+	- Neurons and Nerve fibers radiating out beyond the brain and spinal cord
+<img src="./media/Nervous_System.png" width="50%" alt="Nervous System">
+
+###ANS (Autonomic Nervous System)
+- 3 major divisions
+	- Sympathetic nervous system
+		- In charge of the flight or flight response
+	- Parasympathetic nervous system
+		- Active in relaxed, non dangerous situations
+	- Enteric nervous system
+		- Regulares digestion
+
+###Anatomic Divisions of the Nervous System
+
+<img src="./media/Nervous_System_Hierarchy.png" width="70%" alt="Nervous System Hierarchy">
+
+###Direction of Neural Information Flow
+- **Afferent** (Incoming)
+	- Coming into CNS
+	- Sensory information
+- **Efferent** (Outgoing)
+	- Leaving the CNS
+	- Motor
+
+###The Brain
+- Dominated by 2 cerebral hemispheres
+- **Cerebral Cortex**
+	- Outermost layer of the cerebral hemispheres
+	- The brain surface has 2 types of areas
+		- **Gyrus**: Ridged or raised portion of the convoluted brain surface
+		- **Sulcus**: Furrow of the convoluted brain surface
+- 4 lobes
+	- **Frontal**
+		- Impulse control, decision making
+		- Contains motor cortex
+	- **Parietal**
+		- Contains somatosensory cortex (pain, touch temperature)
+	- **Occipital**
+		- Visual processing
+	- **Temporal**
+		- Auditory processing and memory
+
+<img src="./media/Lobes.png" width="70%" alt="Brain Lobes">
+
+###The Meninges
+- Surround the brain and spinal cord, protecting them
+- The cerebrospinal fluid (CSF) circulates within the subarachnoid space
+
+<img src="./media/Meninges.png" width="70%" alt="Meninges">
+
+###The Ventricular System
+- Series of chambers filled with CSF (cerebrospinal fluid)
+- CSF has 2 main functions
+	- Acts as a sock absorber
+	- Provides an exchange medium between blood and brain
+
+---
+
+##Structure of the cortex
+
+###Gray Matter vs White Matter
+- 2 colors of brain tissue
+	- **White matter**: consists mostly of axons with white myelin sheaths
+	- **Gray matter**: contains more cell bodies and dendrites, which lack myelin
+
+<img src="./media/Brain_Tissue.png" width="80%" alt="Brain Tissue">
+
+###Layers of Cerebral Cortex
+- **Neocortex** (a.k.a. cortex)
+	- 6 distinct layers
+- Cortical layers are distinguished by
+	- Type of neuron
+	- Pattern of dendrites or axons
+- There are other cortices with 3-4 layers or unlayered
+
+<img src="./media/Layers_Cortex.png" width="50%" alt="Layers Cortex">
+
+###Cytoarchitectonic Map
+- Brodmann defined areas by organization and characteristic of cells
+- The simplest sensory perceptions of touch (red), vision (purple), and hearing (orange)
+
+<img src="./media/Cytoarchitectonic_Map.png" width="50%" alt="Cytoarchitectonic Map">

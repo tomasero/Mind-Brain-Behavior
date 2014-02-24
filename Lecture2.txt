@@ -1,0 +1,135 @@
+#Lecture 2
+
+---
+
+###Understanding Human Consciousness:
+####A Physiological Approach  
+  
+- **Corpus Callosum**
+	- Large bundle of nerve fibers that connect corresponding parts of one side of the brain with those of the other
+- E.g.
+	- Flower on the left side of visual field
+		- Right visual cortex (contralateral) will see it first
+		- Then send information to left visual cortex
+	- Flower on the right side of visual field
+		- Left visual cortex will see it first
+		- Then send information to right visual cortex
+
+<img src="./media/Corpus_Callosum.png" width="35%" alt="Corpus Callosum">
+
+- **Epilepsy**
+	- In some cases of epilepsy, electrical activity propagates through the corpus callosum, bouncing back and forth between the two hemispheres, causing a generalized epileptic seizure
+- **Split-Brain Operation**
+	- Neurosurgeons discovered that cutting the corpus callosum greatly reduced the frequency of epileptic seizures (Sperry & Gazzaniga)
+- **Agenesis of the Corpus Callosum**
+	- One can be born without a corpus callosum but it is very rare
+
+<img src="./media/Split_Brain.png" width="35%" alt="Split-Brain">
+
+---
+
+###What happens if the two hemispheres cannot communicate?
+
+<img src="./media/Experiment1.png" width="100%" alt="Split-Brain Experiment">
+
+- Word on the **left** side of visual field
+	- Right visual cortex (contralateral) will see it
+	- Information **cannot** be sent back to left visual cortex
+	- Can't say what is seen, but can draw it with left hand
+	- Can he draw it with right hand too?
+- Word on the **right** side of visual field
+	- Left visual cortex will see it
+	- Information **cannot** be sent back to right visual cortex
+	- Can say what is seen
+
+---
+
+##Why do we behave the way we do?
+
+###Natural Selection and Evolution
+- Charles Darwin (1809-1882)
+	- Formulated the principles of *natural selection and evolution*, which revolutionized biology
+- **Natural Selection**
+	- Gradual process by which biological traits become either more or less common in a population
+	- It is a function of the effect of inherited traits on the differential reproductive success of organisms interacting with their environment
+	- Natural selection is a key mechanism of evolution
+
+###From the perspective of behavior...
+- Behaviors that are advantageous either because they increase the reproductive success or likelihood of survival till reproductive age would be selected for
+- It might be advantageous to have those behaviors **hard coded** (already genetically encoded) --> **Fixed Action Patterns**
+
+###Fixed Action Patterns
+- Sequence of unlearned, innate behaviors that is unchangeable
+	- Once initiated, it is usually carried to completion
+- **Trigger Stimulus**
+	- Stimulus that triggers the stereotypes behavior
+
+<img src="./media/Fixed_Action_Patterns.png" width="100%" alt="Fixed Action Patterns">
+
+- E.g. Male Stickleback Fish
+	- Behavior
+		- A male stickleback fish attacks other male sticklebacks that invade its nesting territory
+	- Proximate cause
+		- The red belly of the intruding male acts as a **sign stimulus** that releases aggression in a male stickleback
+	- Ultimate cause
+		- By chasing away other male sticklebacks, a male decreases the chance that eggs laid in his nesting territory will be fertilized by another male
+
+###Nature vs Nurture
+- All of our cells contain the same original set of genetic information, which we inherited from our parents
+- The genetic information is contained in chromosomes, which are a large structure of DNA
+- Only 2% of our DNA encodes for "useful" stuff
+- Everything our cells have (membranes, pigments, ability to move, ability to transport oxygen, etc) is encoded in the DNA
+- Different cells in our body use specific sections of DNA
+
+###Different cells exist because they express different genes
+- **Gene**
+	1. Part of the DNA that encodes something useful
+	2. If you think of the molecule of DNA as a string of random letters, a **gene** would be a set of letters that actually spell out a word
+
+- **Cloning**
+	- If all cells have the same genetic information but only "read" some of it, we should be able to make a full organism from the genetic information in just one cell
+
+<img src="./media/Cloning.png" width="100%" alt="Nuclear Transplantation Experiments">
+
+---
+
+###Fixed Action Patterns and Genes
+
+- If some behaviors are **Hard Wired**...
+	- Cells must contain genes that result in neurons connecting in specific ways so that when a trigger stimulus is detected, it triggers activity of a specific set of neurons --> **Fixed Action Patterns**
+- If this is the case...
+	- We might be able to change the behavior by just changing one gene
+- For a few behaviors this is true...
+	- But most behaviors seem to result from complex interactions of genes and environment 
+	- Our brain is shaped to our environment through our lives
+- **Fly Courtship Behavior**
+	- Mutating one gene makes females behave as males
+	- They show a complex sequence of behaviors that are aimed at "courting" females"
+
+###Characteristics in humans determined by one gene
+
+- Monogenic Traits
+	- Determined by one gene
+	- E.g.
+		- Cleft in chin
+		- Hairline
+		- Freckles
+- But most are not
+	- If we cannot yet understand how some genes work together to determine something as simple as height
+	- Imagine understanding behavioral characteristics
+
+###Nature & Nurture
+- **Heritability**
+	- Percentage of the variation in a characteristic that can be attributed to genetic factors
+	- Calculated by comparing **concordance rate** for types of twins
+		- Identical twins share 100% of their genes
+		- Fraternal twins share about 50% of their genes
+	- Some estimated heritability rates are
+		- Intelligence: 50%
+		- Schizophrenia: 60-90%
+		- Height: 90%
+- About half of the variability in behavioral characteristics is due to heredity; the other half is due to environmental influences
+- **Vulnerability model**: Influence of genes is only partial
+	- Genes contribute a predisposition for the disorder
+	- Combination of genes & environmental factors determines whether the individual develops the disorder
+- Most scientists reject the nature-vs-nurture concept; they conclude that heredity and environment interact to influence behavior

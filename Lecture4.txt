@@ -1,0 +1,121 @@
+##Lecture 5 - Electrical Activity in Neurons
+###The organization of the membrane
+
+---
+
+####Neurons transmit information through changes in ion flow
+- Ions come in and out
+- Cell body sums up all of the ions
+- If results larger than threshold --> Action Potential
+
+- Ion
+	- Charged atom
+	- Either gained or lost an electron
+
+- Neurons have ions inside them and are also surrounded by fluid that has ions
+- Cell membranes are made of lipids and not permeable to ions
+- What kind of molecules can go through lipid bilayers?
+
+
+####Normal ion distribution in the body
+#####Banana in the ocean
+
+- Intracellular
+	- A-
+	- K+
+- Extracellular
+	- Cl-
+	- Na+
+
+####Channels
+For ions to go through, they must go through specialized molecules called channels or be moved by protein pumps
+
+#####Channels are specific
+- We have hundred different types of channels
+- The most common type of ions that flow through membrane channels are Na+, Cl-, K+, Ca2+
+- Each channel is permeable to only one or a few ions
+	- So if a channel is permeable to Calcium, it won't be permeable to Cl-
+
+#####Movement of ions through channels is passive
+- Ions move following their concentration and electrical gradients
+- Thus, no external energy needs to be applied for ions to move
+
+#####Channels can be always open or gated
+- Channels can be
+	- Always open
+		- Called Resting or Leak Channels
+	- Gated by
+		- Voltage
+		- Mechanical stimulus
+		- Binding of a ligand (Such as a neurotransmitter)
+		- Phosphorylation/dephosphorylation
+
+#####The Na+/K+ Pump
+- The most important pump in cells
+- Maintains normal concentrations of K+ and Na+ inside and outside cell
+- Conducts Na+ and K+ **against** their concentration gradients
+	- Exchanges 3 Na+ for 2 K+, using 1 ATP
+- **Electrogenic**
+	- Exchanges 3+ charges for 2, making the cell more negative
+
+####Energy Consumption in the Brain
+- Na+/K+ pumps are working all the time
+- Since the brain has so many neurons and pumps, the brain is the largest consumer of energy at rest
+- At rest, the body required ~700 kilo calories (kcal) per day
+	- If you sit without moving a single muscle, your brain will be using most of your energy
+	- The brain uses 50% of that (420 kcal)
+		- 60% of that (~250 kcal) goes to run the Na+/K+ pumps in the brain
+		- Which is equivalent of 36% of the body's total energy requirement at rest
+- Amount of power used (energy/time)
+	- ~700 kcal = 34 watts
+	- ~420 kcal = 20 watts
+
+---
+
+###Understanding electrical signals
+
+
+####Neurons use electricity to represent information
+- A neuron has different charges inside and outside the cell
+- Thus, there is a difference in electrical potential -- > **resting membrane potential**
+
+####Graded Potentials
+- Depolarization
+	- Decrease in electrical charge across a membrane (more positive)
+	- Usually due to the inward flow of sodium
+- Hyperpolarization
+	- Increase in electrical charge across a membrane (more negative)
+	- Usually due to the
+		- Inward flow of chloride ions **or**
+		- Outward flow of potassium ions
+
+####The Action Potential
+- Action Potential
+	- Large, brief reversal in polarity of an axon
+	- Lasts approximately 1 millisecond (ms)
+- Threshold Potential
+	- Voltage on a neural membrane at which an action potential is triggered
+	- Opening of Na+ and K+ voltage-sensitive channels
+	- Approximately -40mV
+
+<img src="./media/Action_Potential.png" width="70%" alt="Action Potential">
+
+####Refractory Period
+- Action potentials can not be triggered one right after the other
+- Period of time where it is not possible to fire another action potential (due to voltage gated Na+ channels being refractory themselves)
+- Function
+	- Prevents Action Potentials from traveling backwards!
+	- In the heart, prevents heart rates from being too fast
+
+####Myelin is Important for Action Potential Conduction
+- Vertebrate Axons are covered in myelin
+- Myelin works as an insulator, preventing the loss of signal to the environment
+- Every once in a while, there is a break in the myelin known as "nodes of Ranvier"
+- These nodes are full of voltage gated channels and Na/K pumps
+- Action potentials are regenerated at the nodes of Ranvier
+
+####Multiple Sclerosis (MS)
+- A devastating demyelinating disorder
+- Starts ~30-40 years of age, most common in women
+- Autoimmune disorder
+- Results in problems in conduction of action potentials to the target, and eventual atrophy of target cells and death of neurons

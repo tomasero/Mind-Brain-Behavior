@@ -1,0 +1,38 @@
+###Discussion Receptors
+
+- Ionotropic receptor
+	- Activate one receptor - activate one receptor
+- Metabotropic receptor
+	- Activate one receptor - activate many receptors
+- G-Protein
+
+####Neurotransmitter Types
+- Small molecule
+	- Glutamate (excitatory)
+	- Gaba (inhibitory)
+	- etc
+- Peptides
+	- Opioids
+- Gases
+	- No
+- Amine
+
+**Neurotransmitters** | Cholinergic | Noradregernic | Nigrostriatal | Mesolimbic | Serotonergic
+--- | --- | --- | --- | --- | ---
+Name | Acetylcholine | Nonadrenaline (nonepinephrine) | Dopamine | Dopamine | Seratonine 
+Where is it produced? | Post-ganglionic sympathetic neurons, basal forebrain, brain stem | Locus coeruleus | Sustantia nigra | Ventral tegmentum area (VTA), nucleus accumbens | Intestines, raphenuclei in brainstem 
+Function | Attention, learning and memory | Learning, memory and emotional processing | Movement | Reward processing | Wakefulness, learning, mood
+Diseases associated with it | Alzheimer | Less: depression, ADHD; More: mania, bipolar disorder | Parkinson's | Schizophrenia & addiction  | OCD & Schizophrenia 
+
+###Notes
+
+- Cual es la senal que estoy tomando
+- Cuando pienso en diferentes sistemas del cerebro
+- Motor cortex
+- Asociacion entre un proceso cognitivo (activacion) y una area del cerebro
+- Que es lo que quiero, y como lo voy a hacer
+- 2 formas
+	- Direct decoding
+		- Without fully understanding the underlined representation
+	- Encoding
+		- Understand the underlined representation to decode what the brain is trying
