@@ -24,7 +24,7 @@
 	4. **Axosomatic**: Axon terminal to cell body
 	5. **Axosynaptic**: Axon terminal to another terminal
 	6. **Axoaxonic**: Axon terminal to another axon
-	7. **Axosecretory**: Axon terminal to to capillaries (directly into blood)
+	7. **Axosecretory**: Axon terminal to capillaries (directly into blood)
 
 ####Structure of Chemical Synapses
 - Chemical Synapse
@@ -32,4 +32,38 @@
 	- Majority of synapses in the mammalian nervous system are chemical
 - Neurotransmitter
 	- Chemical released by a neuron onto a target with an excitatory or inhibitory effect
-	- Outside the bloodstream as h
+	- Outside the CNS, many of these chemicals circulate in the blood stream as hormones (distant targets, slower action than neurotransmitters)
+- Experiment: Otto Loewi (1921)
+	- Frog heart experiement
+	- Role of the vagus nerve and the neurotransmitter acetylcholine (ACh) in slowing heart rate
+- Acetylcholine
+	- First neurotransmitter discovered in the PNS and CNS
+	- Activates skeletal muscles in the somatic nervous system
+	- May excite/inhibit internal organs in the autonomic nervous system
+
+####Structure of Electrical Synapses
+- Gap junction
+	- Fused presynaptic and postsynaptic membrane
+	- Allows ions (electrical messages) to pass directly from one neuron to the next
+- Electrical Synapses are fast
+- These types of synapses are less common
+
+---
+
+####Steps in Synaptic Transmission
+1. **Synthesis**
+	- Some neurotransmitters are transported from the cell nucleus to the terminal button
+	- Others, made from building clocks imported into the terminal, are packaged into vesicles there
+2. **Release**
+	- In response to an action potential, the transmitter is released across the membrane by exocytosis
+3. **Receptor action**
+	- Transmitter cross the synaptic cleft and binds to receptor
+4. **Inactivation**
+	- Transmitter is either taken back into the terminal or inactivated in the synaptic cleft
+
+####Excess Neurotransmitter
+- Accomplished in at least four ways
+	- Diffusion away from synaptic cleft
+	- Degradation by enzymes in synaptic cleft
+	- Reabsorption into presynaptic neuron for subsequent reuse
+	- Taken up by neighboring glial cells
