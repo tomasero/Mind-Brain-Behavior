@@ -1,4 +1,4 @@
-Mind--Brain-and-Behavior
+Mind-Brain-Behavior
 ========================
 
 Notes taken for MCB61 class
