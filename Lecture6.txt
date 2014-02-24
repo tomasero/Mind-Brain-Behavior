@@ -1,0 +1,181 @@
+##Lecture 6
+#####Neurotransmission
+
+---
+
+###Varieties of Neurotransmitters
+- Over 50 different kinds identified
+- Some are inhibitory at one location and excitatory at another
+- More than one neurotransmitter may be active at a single synapse
+- No simple one-to-one relationship between a single neurotransmitter and a single behavior
+
+###Small-Molecule Transmitters
+- Class of quick-acting neurotransmitters
+- Synthesized from dietary nutrients and packaged ready for use in axon terminals
+- Examples:
+	- Acetylcholine (ACh)
+	- Amines
+		- Norepinephrine (NE)
+		- Epinephrine (EP)
+		- Serotonin (5-HT)
+	- Amino Acids
+		- Glutamate (Glu)
+		- Gamma-aminobutyric (GABA)
+		- Glycine (Gly)
+
+####Glutamate and GABA
+- Most important neurotransmitters for information transmission in the CNS
+- Glutamate
+	- Usually excitatory
+- GABA
+	- Usually inhibitory
+
+####Peptide Transmitters
+- Act as hormones that respond to stress
+- Enable a mother to bond with her infant
+- Regulate eating, drinking, pleasure and pain
+- Contribute to learning
+- Opiates such as morphine and heroin mimic the actions of natural brain peptides
+
+####Transmitter Gases
+- Neither stored in synaptic vesicles nor released from them
+- Synthesized in cell, as needed
+- Easily crosses cell membrane
+- E.g., Nitric Oxide (NO)
+	- Viagra enhances the effects of this neurotransmitter in the blood vessels in the penis
+
+---
+
+####Postsynaptic Neuron
+- Interprets the chemical message
+- On postsynaptic side, a neurotransmitter may
+	- Depolarize the postsynaptic membrane
+		- Causing excitatory action on the postsynaptic neuron
+		- EPSP (Excitatory PostSynaptic Potential)
+	- Hyperpolarize the post synaptic membrane
+		- Causing inhibitory action on the post synaptic neuron
+		- IPSP (Inhibitory PostSynaptic Potential)
+	- Initiate other chemical reactions that 
+		- Modulate either the excitatory or inhibitory effect **or**
+		- Influence other functions of the receiving neuron
+	
+####Receptors
+- Receptor proteins recognize transmitters and their mimics
+- Two basic kinds of neurotransmitter receptors
+
+**Ionotropic** | **Metabotropic**
+--- | ---
+Fast | Slow
+Quickly change shape | When activated they alter chemical reactions in the cell
+Open or close an ion channel when the transmitter molecule binds | Use a system of *second messengers* to open ion channels
+<img src='./media/Ionotropic.png' width='70%'> | <img src='./media/Metabotropic.png' width='70%'>
+
+####Learning: Changes in Synapses
+- Presynaptic Neuron
+	- Increased axonal transport
+	- Increase size or area of terminal
+	- Increase in number of synaptic vesicles
+	- Increase in density of contact zones
+	- Change in size of synaptic cleft
+- Postsynaptic Neuron
+	- Increase in size or area of spine
+	- Change in stem length and width
+	- Increase in protein transport for spine construction
+
+--- 
+
+###Activating Systems in the CNS
+####Cholinergic System
+- Acetylcholine
+- Produced in the Basal forebrain nuclei and Midbrain nuclei
+- Active in maintaining attention
+- Important for learning and memory, specially in adults
+- A decrease in cholinergic activity is seen in Alzheimer's Disease
+
+####Noradrenergic System
+- Noradrenaline (Norepinephrine)
+- Produced in the Locus coeruleus
+- Plays a role in learning memory (particularly in adults)
+- Important in emotional processing
+- Has been implied in different neurological disorders
+	- Depression (less)
+	- ADHD (less)
+	- Mania (excess)
+
+####Dopaminergic Systems
+#####Nigrostriatal Dopaminergic System
+- Produced in the Substantia nigra
+- Involved in movement
+- Related to Parkisonism
+
+#####Mesolimbic Dopaminergic System
+- Produced in the Ventral Tegmentum Area (VTA)
+- Important in reward processing
+- Has been linked to addiction and schitzophrenia
+
+#####6-Hydroxydopamine (6-OHDA)
+- Neurotoxin
+- Destroys dopaminergic neurons
+
+#####Lesions of the Ascending Dopaminergic pathways
+- Results in behavioral deficits
+- Animals show
+	- Sensory neglect
+		- Little attention to the environment
+	- Motivational deficits
+		- Little interest in eating food or drinking water
+	- Motor impairments
+		- Difficulty initiating voluntary movements
+		- Similar to Parkinson's
+
+#####Drug Abuse
+- Drugs that are abused increase mesolimbic dopamine activity, either directly or indirectly
+- Drugs that blunt abuse and addiction decrease mesolimbic dopamine activity
+
+####Serotonergic System
+- Serotonin
+- Plays a role in
+	- Wakefulness
+	- Learning
+	- Mood
+- Might be related to OCD and schitzophrenia
+
+---
+
+###Parkinson's
+- First described in 1817 by James Parkinson
+- It is a *hypokinetic* movement disorder
+- Symptoms arise due to the loss of nigrostriatal dopaminergic neurons
+- As a result, the inhibitory output of the basal ganglia is abnormally high
+- Incorrect coordination of movement
+- Symptoms
+	- Diminished facial expressions
+	- Lack of smooth movements
+	- Movement initiation is difficult (akinesia)
+	- Reduced velocity and amplitude of movements (bradykinesia)
+	- Tremor at rest
+	- Impaired balance
+
+####The Frozen Addicts
+- 1982: Several young drug addicts were admitted to a hospital with symptoms resembling parkinson's
+- Their symptoms responded to L-DOPA
+- The heroin they consumer was contaminated with MPTP
+- Injection of MPTP to rats and nice had no effect but in monkeys it resulted in "parkinson's"
+
+####Causes
+- While the symptoms arise from the death of the dopaminergic neurons, it is not known what causes this
+- Recently it has been suggested that it could present a genetic component
+	- Mutations in 3 genes have been implicated in rare forms of the disease but this doesn't account for most of the cases of PD
+- These genes could be therapeutic targets in the future
+
+####Treatments
+- Administration of L-DOPA
+	- A dopamine precursor
+	- Caveat: The dose had to be constantly increased and it becomes ineffective after ~5 years
+- Surgical lesioning
+	- Lesioning of specific areas of the basal ganglia can increase the ability of the person to move
+- Deep brain stimulation
+- Stem cells
+
+
+

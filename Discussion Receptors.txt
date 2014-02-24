@@ -20,7 +20,7 @@
 **Neurotransmitters** | Cholinergic | Noradregernic | Nigrostriatal | Mesolimbic | Serotonergic
 --- | --- | --- | --- | --- | ---
 Name | Acetylcholine | Nonadrenaline (nonepinephrine) | Dopamine | Dopamine | Seratonine 
-Where is it produced? | Post-ganglionic sympathetic neurons, basal forebrain, brain stem | Locus coeruleus | Sustantia nigra | Ventral tegmentum area (VTA), nucleus accumbens | Intestines, raphenuclei in brainstem 
+Where is it produced? | Basal forebrain, brain stem | Locus coeruleus | Sustantia nigra | Ventral tegmentum area (VTA), nucleus accumbens | Intestines, raphenuclei in brainstem 
 Function | Attention, learning and memory | Learning, memory and emotional processing | Movement | Reward processing | Wakefulness, learning, mood
 Diseases associated with it | Alzheimer | Less: depression, ADHD; More: mania, bipolar disorder | Parkinson's | Schizophrenia & addiction  | OCD & Schizophrenia 
 
