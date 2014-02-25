@@ -1,0 +1,252 @@
+##Lecture 7
+#####How do Drugs and Hormones affect the Brain and Behavior
+
+---
+
+###Drugs
+- Chemicals that have physiological effects
+- Includes from herbal teas to drugs of abuse such as heroine or cocaine
+
+####History
+#####Drugs in Early Times
+- Earliest experiences with psychoactive drugs came from tasting naturally growing plants
+
+#####Drugs in the 19th Century
+- Psychoactive drugs widely used, principally in the form of patent medicines
+- By the end of the century the risks of drug dependence began to be recognized
+
+####Classification of Psychoactive Drugs
+- Drugs are classified by its most pronounced behavioral or psychoactive effect
+	- Antianxiety Agents and Sedative Hypnotics
+	- Antipsychotic Agents
+	- Antidepressants/Mood Stabilizers
+	- Opioid Analgesics
+	- Psychotropics
+
+####Antianxiety Agents and Sedative Hypnotics
+- At low doses, they depress inhibitory parts of the brain, leading to disinhibition or relaxation and talkativeness
+- As the dose is increased, the neural functions become depressed, leading to uncoordinated movements and unconsciousness
+- Includes
+	- Alcohol
+	- Barbiturates
+	- Benzodiazepines (Valium)
+	- Ketamine (Special K)
+
+####Antipsychotic Agents
+- Psychosis: Behavioral disorders
+	- e.g., Schizophrenia (1 in 100 people)
+- Antipsychotics:
+	- Can calm psychotic patients
+	- e.g., Haloperidol (Block D2 receptors)
+
+####Antidepressants and Mood Stabilizers
+
+#####Major depression
+
+- Mood disorder characterized by
+	- Prolonged feelings of worthlessness and guilt
+	- Disruption of normal eating habits
+	- Sleep disturbances
+	- General slowing of behavior
+	- Frequent thoughts of suicide
+- Common: ~6% of adult population
+- Twice as common in women as in men
+- Most Antidepressants increase serotonin and norepinephrine systems
+
+#####Bipolar disorder
+
+- Mood disorder characterized by
+	- Period of depression alternating with normal period and periods of intense excitation
+- Mood stabilizers mute the intensity of one pole of the disorder, making the other pole less likely to occur
+- Mechanisms are not well understood
+	- Lithium may stimulate neuronal repair
+	- Valproate may stimulate GABA activity
+
+####Opioid Analgesics
+- Analgesic (pain killers) drugs that produce a relaxed dream-like state and can lead to sleep
+- A.K.A. **Narcotics**
+- They are different from depressants because there is no reckless abandon, slurred speech or staggering. They act on different parts of the brain
+- Includes
+	- Morphine
+	- Codeine
+	- Methadone
+	- Heroin
+
+####Psychotropic Drugs (Behavioral Stimulants)
+- Produce wakefulness and a sense of energy and well-being
+- The most powerful one can lead to manic state of excitement combined with paranoia and hallucinations
+- Includes
+	- Cocaine
+	- Amphetamines
+	- Caffeine
+
+####Psychotropic Drugs (Hallucinogens)
+- Produce altered perceptions, including unusual visual sensations and quite often changes in the perception of one's body
+- Includes
+	- Mescaline
+	- LSD
+	- PCP
+
+####Nicotine
+- Mild stimulant
+- Some relaxant properties
+
+####Marijuana
+- Relaxant but different from all other categories
+- At high doses it can produce hallucinations
+- Endocannabinoid Receptors (CB1) are distributed widely in the brain
+
+---
+
+###Pharmacokinetics
+- While the chemical structure of a drugs determines its action, several other factors are also very important
+- E.g., The dose of the drug administered is important, but what really matters is how much of the drug remains in the blood free to bind targets (**bioavailability**)
+- **Pharmacokinetics**: The study of the factors affecting bioavailability
+
+####Routes of drug administration
+- Affects when the drug will reach its target and how much of it will get there
+	- Oral administration
+	- Intravenous Administration (IV injection)
+	- Intramuscular Administration (IM injection)
+	- Intraperitoneal Administration (IP injection)
+	- Subcutaneous Administration (SC injection)
+	- Inhalation drugs
+	- Topic Administration
+	- Special injection methods (intracranial, epidural, etc)
+
+####All drugs will be distributed by the circulatory system
+- Ingested drugs will have to go to
+	1. Stomach (Acid, enzymes)
+	2. Intestine (pH=7.3, enzymes)
+	3. Liver (detoxifier)
+- Only after that they will enter the circulatory system
+
+####Distribution of drugs is fairly generalized through capillaries
+- Once drugs are in the blood they will start "leaking" through capillary holes into all tissues
+- The chemical nature of the drug is irrelevant at this point
+- Thus, areas with more blood will have more drug (heart, brain, kidneys, liver)
+
+####Blood Brain Barrier (BBB)
+- Selective barriers
+- Consists of capillaries that are bound **very** tight so things can't get through
+- Capillaries are surrounded by glial cells that make it harder for things to go through
+- Lipid soluble substances can still go through
+- There are special carriers for the rest
+
+####The Placenta
+- Connects the fetus with the mother's uterine wall
+- Brings nutrients and gases to the fetus
+- Removes wastes
+- Lipid soluble substances will diffuse easily through the placenta
+- Water soluble ones will have a harder time
+
+####Drugs cross the Placenta affecting the fetus
+- Alcohol
+	- Fetal alcohol syndrome
+	- Decreased birth weight
+	- Adverse cognitive outcomes
+	- Poorer linguistic abilities
+	- Deficits in attention and memory
+- Cocaine
+	- Decreased neonatal head circumference
+	- Birth weight
+	- Prematurity
+	- Growth retardation
+	- Fetal loss
+	- Decreased adaptability to stress
+	- Impaired attention
+- Marijuana
+	- Decreased birth weight and length
+	- Deleterious cognitive and attention effects in some preschool and early school-age samples
+- Nicotine
+	- Physical, cognitive and behavioral effects in offspring
+- Heroin
+	- Neonatal abstinence syndrome
+- Cocaine
+	- Intrathecal morphine associated with fetal bradycardia
+- Caffeine
+	- Prospective cohort: low birth weight, small head circumference
+
+####Drug Elimination/Half-Life
+- Drugs are eliminated from the body by several mechanisms
+- These include metabolism and excretion of drugs and its metabolites
+- **Half-Life**: The amount of time required to remove 50% of the drug from blood
+
+####Biotransformation of Drugs
+- Most drugs are altered by the body's enzymes before they are excreted
+- These changes take place in many organs, including
+	- Liver (most important)
+	- Stomach
+	- Kidney
+	- Brain
+	- Intestine
+	- Blood plasma
+
+####The Liver
+- Plays a major role in drug transformation
+- Contains large amounts of enzymes that can metabolize a wide variety of compounds
+- These are called **microsomal enzymes**
+- One of the most important microsomal enzymes is the **cytochrome p450** enzyme family
+- There are 30+ different enzymes and they oxidize a wide variety of drugs
+
+---
+
+###Pharmacology of Synaptic Transmission
+<br>
+####How do drugs exert their effects?
+- This is done by altering synaptic transmission
+- It can change the
+	- Levels of neurotransmitters made
+	- Amount of neurotransmitters available in the synapse
+	- Sensitivity of the receptors
+	- Availability of receptors (e.g., by blocking them)
+- Effects can be either acute or chronic
+- Terminology
+	- **Agonist**: Substance that **ENHANCES** the function of a synapse
+	- **Antagonist:**: Substance that **BLOCKS/DECREASES** the function of a synapse
+
+####Characteristics of Receptor-Ligand Interactions
+- Very specific
+- The better they match the ligand binding site, the better and stronger the interactin
+<img src='./media/Types_Of_Ligands.png' width=60%>
+
+####How do Drugs exert their effects?
+<img src='./media/Drug_Effects.png' width=80%>
+
+####Depression and SSRIs
+- Depression is usually diagnosed through behavioral assessment of subjects (sleep patterns, mood, changes in feeding behavior) 
+- The most prescribed treatment is pharmacological
+	- E.g., Serotonin-reuptake inhibitors
+
+####Antidepressants
+#####Monoamine Oxidase (MAO) Inhibitors**
+- Block the enzyme MAO from degrading neurotransmitters such as dopamine, noradrenaline, and serotonin
+
+#####Tricyclic Antidepressants
+- First-generation antidepressants with a chemical structure characterized by three rings that block serotonin reuptake transporter proteins
+
+#####Second-Generation Antidepressants
+- Action similar to first-generation antidepressants
+- More selective in action on the serotonin reuptake proteins
+- A.K.A. Atypical antidepressants
+
+#####Selective Serotonin Reuptake Inhibitors (SRRIs)
+- Block the reuptake of serotonin into the presynaptic terminal
+
+####Antidepressants: Questions remain
+- Although antidepressants affect synapses very quickly, their antidepressive actions take weeks to develop
+- Prozac, an SSRI, enhances neurogenesis in the hippocampus
+- ~20% of patients with depression fail to respond to antidepressants, suggesting that depression can likely have many causes
+
+####Alcohol and Depressant Drugs
+- Many of them act on the GABA ionotropic receptor, which is a GABA gated ion channel
+- When open, the channel allows chloride to come into the cell, which makes it harder to fire an action potential
+- These drugs increase the amount of chloride coming in
+- Because they do not act on the same sites of the receptor, they potentiate each other
+- Therefore it is dangerous to consume them together
+- In addition, many of the drugs that affect GABAergic signaling are metabolized by the same enzymes, which leads to **cross-tolerance**
+
+####Amphetamine and Cocaine
+- They increase dopaminergic signaling by overlapping mechanisms
+
+
